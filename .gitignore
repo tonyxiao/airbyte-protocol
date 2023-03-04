@@ -38,3 +38,4 @@ coverage.xml
 .pytest_cache/
 cover/
 
+node_modules/

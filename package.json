@@ -1,0 +1,23 @@
+{
+  "name": "airbyte-protocol",
+  "version": "1.0.0",
+  "description": "Declares the Airbyte Protocol.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airbytehq/airbyte-protocol.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airbytehq/airbyte-protocol/issues"
+  },
+  "homepage": "https://github.com/airbytehq/airbyte-protocol#readme",
+  "dependencies": {
+    "json-schema-to-ts": "^2.7.2",
+    "typescript": "^4.9.5"
+  }
+}
